@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone😃👋, I'm Rambod!!!</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rambodrezp" alt="rambodrezp" /></a> </p>
+
 
 - 🔭 I’m currently working on **my organization and ui-ux of a game in site**
 
