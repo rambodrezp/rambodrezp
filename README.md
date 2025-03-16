@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate Developer</h3>
 
 
-- 🎓 Bachelor's degree student in Computer Engineering at Urmia University , IRAN
-
 - 🔭 I’m currently working on **my organization and ui-ux of a game in site**
 
 - 😏I'm very interested in **Cybersecurity, Cloud Computing, and these are my future plans**
